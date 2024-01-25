@@ -11,6 +11,7 @@ enum class RangeType{
             return "radius"
         }
     };
+
 }
 
 enum class DistanceType{
@@ -36,4 +37,6 @@ enum class DistanceType{
     };
 }
 
-data class Range(val type:String)
+
+data class Distance(val type:DistanceType, var distance:Int? = null)
+data class Range(val type:RangeType, val distance:Distance)
