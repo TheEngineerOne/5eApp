@@ -13,6 +13,7 @@ Welcome to 5eApp, an application designed to streamline access to Dungeons & Dra
 
 - Make sure you have Kotlin installed.
 - Ensure Gradle is installed on your machine.
+- Ensure you have a legally owned database for the content
 
 ## Installation
 
