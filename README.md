@@ -1,27 +1,27 @@
-5eApp Readme
-Overview
+# 5eApp Readme
+## Overview
 
-Welcome to 5eApp, an application designed to streamline access to Dungeons & Dragons 5th Edition (DnD 5e) materials. This project is developed in Kotlin and utilizes Gradle as the build tool.
-Features
+Welcome to 5eApp, an application designed to streamline access to Dungeons & Dragons 5th Edition (DnD 5e) materials. This project is developed in [Kotlin](https://kotlinlang.org/) and utilizes [Gradle](https://gradle.org/) as the build tool.
+## Features
 
-    Material Access: Access a wide range of DnD 5e materials, including rules, classes, spells, monsters, and more.
-    User-Friendly Interface: Enjoy an intuitive and user-friendly interface for easy navigation and information retrieval.
-    Offline Mode: Access DnD 5e materials even without an internet connection, making it convenient for on-the-go gaming.
+- Material Access: Access a wide range of DnD 5e materials, including rules, classes, spells, monsters, and more.
+- User-Friendly Interface: Enjoy an intuitive and user-friendly interface for easy navigation and information retrieval.
+- Offline Mode: Access DnD 5e materials even without an internet connection, making it convenient for on-the-go gaming.
 
-Getting Started
-Prerequisites
+## Getting Started
+## Prerequisites
 
     Make sure you have Kotlin installed.
     Ensure Gradle is installed on your machine.
 
-Installation
+## Installation
 
-    Clone the repository:
+Clone the repository:
 
-    bash
+```bash
 
 git clone https://github.com/your-username/5eApp.git
-
+``` 
 Navigate to the project directory:
 ``` bash
 
@@ -30,36 +30,35 @@ cd 5eApp
 Build the project using Gradle:
 
 ```bash
-    ./gradlew build
+./gradlew build
 
 ```
 
 
 
-Usage
+## Usage
 
-    Run the application:
+Run the application:
 
 ``` bash
-    ./gradlew run
+./gradlew run
 ``` 
-    The application window will open, providing a local interface for accessing DnD 5e materials.
+The application window will open, providing a local interface for accessing DnD 5e materials.
  
-Contributing
+## Contributing
 
 We welcome contributions from the community. If you'd like to contribute to 5eApp, please follow these guidelines:
 
-    Fork the repository.
-    Create a new branch for your feature or bug fix.
-    Make your changes and commit them with a descriptive commit message.
-    Push your changes to your fork.
-    Submit a pull request to the main repository.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with a descriptive commit message.
+- Push your changes to your fork.
+- Submit a pull request to the main repository.
 
-License
+## License
 
-This project is licensed under the MIT License.
-Acknowledgments
+This project is licensed under the [MIT License](https://mit-license.org/).
 
-    The 5eApp team would like to express gratitude to the DnD 5e community for their support and inspiration.
+## Acknowledgments
 
-Feel free to customize this README further based on your app's specific details and features.
+- The 5eApp team would like to express gratitude to the DnD 5e community for their support and inspiration.
