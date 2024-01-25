@@ -38,5 +38,5 @@ enum class DistanceType{
 }
 
 
-data class Distance(val type:DistanceType, var distance:Int? = null)
+data class Distance(val type:DistanceType, val distance:Int? = null)
 data class Range(val type:RangeType, val distance:Distance)
