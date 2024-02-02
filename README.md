@@ -5,7 +5,6 @@ Welcome to Lib5e, a library designed to streamline access to Dungeons & Dragons 
 ## Features
 
 - Material Access: Access a wide range of DnD 5e materials, including rules, classes, spells, monsters, and more.
-- User-Friendly Interface: Enjoy an intuitive and user-friendly interface for easy navigation and information retrieval.
 - Offline Mode: Access DnD 5e materials even without an internet connection, making it convenient for on-the-go gaming.
 
 ## Getting Started
@@ -13,14 +12,13 @@ Welcome to Lib5e, a library designed to streamline access to Dungeons & Dragons 
 
 - Make sure you have Kotlin installed.
 - Ensure Gradle is installed on your machine.
-- Ensure you have a legally owned database for the content
+- Ensure you have a legally owned compatible database for the content
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-
 git clone https://github.com/your-username/5eApp.git
 ``` 
 Navigate to the project directory:
