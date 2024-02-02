@@ -40,7 +40,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass.set("_5eApp.AppKt")
+    mainClass.set("lib5e.AppKt")
 }
 
 tasks.named<Test>("test") {

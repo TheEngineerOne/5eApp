@@ -1,7 +1,7 @@
-# 5eApp Readme
+# Lib5e
 ## Overview
 
-Welcome to 5eApp, an application designed to streamline access to Dungeons & Dragons 5th Edition (DnD 5e) materials. This project is developed in [Kotlin](https://kotlinlang.org/) and utilizes [Gradle](https://gradle.org/) as the build tool.
+Welcome to Lib5e, a library designed to streamline access to Dungeons & Dragons 5th Edition (DnD 5e) materials. This project is developed in [Kotlin](https://kotlinlang.org/) and utilizes [Gradle](https://gradle.org/) as the build tool.
 ## Features
 
 - Material Access: Access a wide range of DnD 5e materials, including rules, classes, spells, monsters, and more.
@@ -59,7 +59,3 @@ We welcome contributions from the community. If you'd like to contribute to 5eAp
 ## License
 
 This project is licensed under the [MIT License](https://mit-license.org/).
-
-## Acknowledgments
-
-- The 5eApp team would like to express gratitude to the DnD 5e community for their support and inspiration.

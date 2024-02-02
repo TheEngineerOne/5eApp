@@ -1,4 +1,4 @@
-package _5eApp
+package lib5e.Spells
 
 data class Spells(
     val name:String,
@@ -7,5 +7,6 @@ data class Spells(
     val isSrd:Boolean,
     val isBasicRule:Boolean,
     val level:Int,
-    val range:Range
+    val range:Range,
+    val duration:Duration
 )
