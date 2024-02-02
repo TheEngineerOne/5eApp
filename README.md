@@ -42,7 +42,6 @@ Run the application:
 ``` bash
 ./gradlew run
 ``` 
-The application window will open, providing a local interface for accessing DnD 5e materials.
  
 ## Contributing
 
